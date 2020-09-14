@@ -1,1 +1,9 @@
-node_modules/
+*.swo
+*.swp
+.DS_Store
+.idea
+yarn-error.log
+node_modules
+npm-debug.log
+lerna-debug.log
+dist
